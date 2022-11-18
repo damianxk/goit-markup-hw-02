@@ -1,0 +1,175 @@
+body {
+  font-family: "Roboto", sans-serif;
+  font-size: 14px;
+  line-height: 2;
+  background-color: #e5e5e5;
+  color: #212121;
+}
+
+header {
+  background-color: #ffffff;
+}
+
+.nav-ul-left,
+.nav-ul-right {
+  list-style: none;
+}
+
+.nav-links-left {
+  text-decoration: none;
+  font-weight: 500;
+  color: #212121;
+}
+
+.nav-links-right {
+  color: #757575;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.nav-links-left:hover,
+.nav-links-right:hover,
+.nav-links-left:focus,
+.nav-links-right:focus,
+.footer-list-link:hover,
+.footer-list-link:focus,
+.footer-list-link-underline:hover,
+.footer-list-link-underline:focus {
+  color: #2196f3;
+}
+
+.logo-link-header {
+  text-decoration: none;
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 26px;
+  color: #000000;
+}
+
+.logo-web {
+  color: #2196f3;
+}
+
+.main-section {
+  color: #ffffff;
+  font-weight: 900;
+  font-size: 44px;
+  background-color: #2f303a;
+  text-align: center;
+}
+
+.main-section button {
+  font-size: 16px;
+  font-weight: 700;
+  color: #ffffff;
+  background-color: #2196f3;
+}
+
+.advantages-section {
+  background-color: #ffffff;
+  color: #757575;
+}
+
+.advantages-section h4 {
+  color: #212121;
+}
+
+.advantages-section-ul {
+  list-style: none;
+}
+
+.what-we-do-section {
+  background-color: #ffffff;
+  text-align: center;
+}
+
+.article-title {
+  font-size: 36px;
+  font-weight: 700;
+  color: #212121;
+}
+
+.what-we-do-section-list {
+  list-style: none;
+}
+
+.our-team-section {
+  background-color: #f5f4fa;
+  text-align: center;
+  font-size: 16px;
+  font-weight: 500;
+  color: #757575;
+}
+
+.our-team-section b {
+  color: #212121;
+}
+
+.our-team-list {
+  list-style: none;
+}
+
+footer {
+  background-color: #2f303a;
+}
+
+.logo-link-footer {
+  text-decoration: none;
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 26px;
+  color: #ffffff;
+}
+
+address {
+  font-style: normal;
+}
+
+.footer-list {
+  color: #ffffff;
+  list-style: none;
+}
+
+.footer-list-link {
+  text-decoration: none;
+  color: #ffffff99;
+}
+
+.filter-button-list {
+  list-style: none;
+}
+
+.filter-button {
+  background-color: #f5f4fa;
+  border: 0;
+  list-style: none;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  color: #212121;
+}
+
+.filter-button:hover {
+  background-color: #2196f3;
+  color: #ffffff;
+  cursor: pointer;
+}
+
+.container {
+  background-color: #ffffff;
+  color: #757575;
+  font-size: 16px;
+}
+
+.container-items b {
+  color: #212121;
+  font-size: 18px;
+}
+
+.container-list {
+  list-style: none;
+}
+
+.footer-list-link-underline {
+  text-decoration: underline;
+  color: #ffffff99;
+}
