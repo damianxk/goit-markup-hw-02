@@ -6,12 +6,12 @@ body {
   color: #212121;
 }
 
-header {
+.header {
   background-color: #ffffff;
 }
 
-.nav-ul-left,
-.nav-ul-right {
+.nav-list-left,
+.nav-list-right {
   list-style: none;
 }
 
@@ -51,11 +51,14 @@ header {
 }
 
 .main-section {
+  background-color: #2f303a;
+  text-align: center;
+}
+
+.main-title {
   color: #ffffff;
   font-weight: 900;
   font-size: 44px;
-  background-color: #2f303a;
-  text-align: center;
 }
 
 .main-section button {
@@ -70,11 +73,11 @@ header {
   color: #757575;
 }
 
-.advantages-section h4 {
+.advantages-title {
   color: #212121;
 }
 
-.advantages-section-ul {
+.advantages-section-list {
   list-style: none;
 }
 
@@ -109,7 +112,7 @@ header {
   list-style: none;
 }
 
-footer {
+.footer {
   background-color: #2f303a;
 }
 
@@ -121,7 +124,7 @@ footer {
   color: #ffffff;
 }
 
-address {
+.address {
   font-style: normal;
 }
 
@@ -154,18 +157,18 @@ address {
   cursor: pointer;
 }
 
-.container {
+.main-portfolio-section {
   background-color: #ffffff;
   color: #757575;
   font-size: 16px;
 }
 
-.container-items b {
+.main-portfolio-container b {
   color: #212121;
   font-size: 18px;
 }
 
-.container-list {
+.main-portfolio-container-list {
   list-style: none;
 }
 
